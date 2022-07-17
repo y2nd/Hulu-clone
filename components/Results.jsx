@@ -1,7 +1,6 @@
 import Thumbnail from './Thumbnail';
 
 const Results = ( {results} ) => {
-  console.log(results);
   return (
     <section>
       {results.map(result => (
