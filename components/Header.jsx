@@ -24,6 +24,7 @@ const Header = () => {
       <Image
         className="object-contain"
         src={"/Hulu_Logo.png"}
+        alt={"Hulu logo"}
         width={100}
         height={50}
       />
